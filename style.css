@@ -1,0 +1,89 @@
+.main{
+    width: 900px;
+    height: 1500px;
+    margin: auto;
+    background-color:rgb(0, 0, 0,0.5);
+}
+.logo{
+    width: 850px;
+    height: 30px;
+    margin: 10px 25px 10px 25px;
+    background-color: brown;
+}
+.logo h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+.menu{
+    width: 850px;
+    height: 30px;
+    margin: 0px 25px 10px 25px;
+    float: left;
+    background-color: darkgreen;
+}
+.slider{
+    width: 850px;
+    height: 400px;
+    margin: 0px 25px 20px 25px;
+    float: left;
+}
+.a{
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.g{
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.content{
+    text-align: justify;
+    width: 420px;
+    height: 250px;
+    margin: 0px 10px 10px 25px;
+    float: left;
+}
+.image{
+    width: 420px;
+    height: 250px;
+    margin: 0px 25px 10px 0px;
+    background-color: whitesmoke;
+    float: left;
+}
+.box1{
+    width: 275px;
+    height: 200px;
+    margin: 0px 12.5px 10px 25px;
+    float: left;
+}
+.box2{
+    width: 275px;
+    height: 200px;
+    margin: 0px 12.5px 10px 0px;
+    float: left;
+}
+.box3{
+    width: 275px;
+    height: 200px;
+    margin: 0px 25px 10px 0px;
+    float: left;
+}
+.box4{
+    width: 275px;
+    height: 200px;
+    margin: 0px 12.5px 10px 25px;
+    float: left;
+}
+.box5{
+    width: 275px;
+    height: 200px;
+    margin: 0px 12.5px 10px 0px;
+    float: left;
+}
+.box6{
+    width: 275px;
+    height: 200px;
+    margin: 0px 25px 10px 0px;
+    float: left;
+}
